@@ -2,7 +2,7 @@ export function constructMetadata({
   title = "MS GLOBAL ",
   description = "MS GBLOBAL is an telecom company",
   image = "/agency.PNG",
-  icons = "/Favicon.ico",
+  icons = "/MS_Logo New1.jpg",
   noIndex = false,
 }) {
   return {
