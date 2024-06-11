@@ -1,6 +1,6 @@
 # MS GLOBAL TELECOM SERVICES - Next.js, Tailwind CSS & Framer Motion
 
-![MS GLOBAL TELECOM SERVICES](/public/agency.PNG)
+![MS GLOBAL TELECOM SERVICES]
 
 MS GLOBAL TELECOM SERVICES is a stunning multi-page agency website template developed using Next.js, Tailwind CSS, and Framer Motion. Designed and built by the talented Tailwind CSS team, this template offers a sleek and minimalist appearance while boasting engaging interactive elements and captivating animations powered by Framer Motion.
 
