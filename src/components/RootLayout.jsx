@@ -28,7 +28,7 @@ const Header = ({
       <div className="flex items-center justify-between">
         {/* Logo */}
         <Link href={"/"} aria-label="Home">
-            <Image src="/MS_Logo New1.jpg" alt="Logo" width={200} height={150} />
+            <Image src="/logo.png" alt="Logo" width={250} height={70} />
         </Link>
         <div className="flex items-center gap-x-8">
           <Button href={"/contact"} invert={invert}>
