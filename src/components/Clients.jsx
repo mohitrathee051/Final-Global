@@ -4,7 +4,7 @@ import airtel from "public/airtel.png";
 import gmda from "public/gmda.png";
 import igl from "public/igl gas.png";
 import jio from "public/jio.png";
-import lNt from "public/l&t.png";
+import lNt from "public/LNT.png";
 import reliance from "public/RELIANCE.png";
 import tata from "public/tata.png";
 import Container from "./Container";
